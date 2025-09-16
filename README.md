@@ -3,6 +3,8 @@
 1-Bar Plot (species counts)
 Each species (setosa, versicolor, virginica) has the same number of samples (50 each).
 This makes the dataset well-balanced, which is great for classification.
+<img width="531" height="393" alt="BAR graph" src="https://github.com/user-attachments/assets/bb3e4954-b511-4ae7-9e71-efc68cc8f5a5" />
+
 
 2-Box Plot (sepal length by species)
 Setosa flowers generally have smaller sepal lengths.
